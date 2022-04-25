@@ -1,5 +1,6 @@
 def reverse_string(str)
-  # type your code in here
+  puts str.reverse
+  
 end
 
 if __FILE__ == $PROGRAM_NAME
@@ -16,3 +17,13 @@ end
 
 # Please add your pseudocode to this file
 # And a written explanation of your solution
+
+
+
+#take in a string and puts out a reversed version
+# if Eric => cire
+
+# def reverse_string(string)
+  #for each letter  start from the back and iterate through
+
+#end
